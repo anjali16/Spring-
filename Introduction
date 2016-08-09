@@ -1,0 +1,8 @@
+Spring is an open source framework, originally created by Rod Johnson. spring initially was created to address coomplexity of enterprise application and makes it possible to use plain JavaBeans to achieve thing tha were previously only possible with EJBs. But it is not limited to server side development only.
+Any java application can benefit with spring in terms of -- 
+* simplicity 
+* testability
+* loose coupling
+
+Spring key strategies--
+Lightweight & minimally invasive development with POJOs
